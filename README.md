@@ -9,4 +9,4 @@
 
 Notes:
 - Best compiled with Microchip's XC32
-- Some support libraries written by staff at UC Santa Cruz (credits in file headers)
+- Some support libraries written by faculty at UC Santa Cruz (credits in file headers)
